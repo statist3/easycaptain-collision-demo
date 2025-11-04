@@ -30,8 +30,8 @@ A small prototype of a collision-risk assessment module for vessels based on rad
 - Prints a result table in the console.
 - ASCII “radar” (41×41):
   - `O` — own ship,
-  - `x` — safe targets,
-  - `X` — dangerous targets.
+  - `X` — safe targets,
+  - `C` — dangerous targets.
 - CLI flags:
   - `--own-speed V` — own ship speed (m/s),
   - `--own-course DEG` — own ship course (degrees),
