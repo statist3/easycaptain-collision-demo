@@ -1,0 +1,14 @@
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Python cache
+__pycache__/
+*.pyc
